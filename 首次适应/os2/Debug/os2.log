@@ -1,0 +1,5 @@
+﻿  test.cpp
+c:\users\allenw\desktop\学习！\大二下\os课设\os2\os2\test.cpp(15): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\allenw\desktop\学习！\大二下\os课设\os2\os2\test.cpp(138): warning C4101: “end”: 未引用的局部变量
+c:\users\allenw\desktop\学习！\大二下\os课设\os2\os2\test.cpp(22): warning C4101: “new_end”: 未引用的局部变量
+  os2.vcxproj -> C:\Users\AllenW\Desktop\学习！\大二下\os课设\os2\Debug\os2.exe
